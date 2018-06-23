@@ -1,1 +1,1 @@
-mongodb-cert
+Will revisit the course in August. Aug 7 2018.
